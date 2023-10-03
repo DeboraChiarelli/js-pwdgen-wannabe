@@ -1,0 +1,17 @@
+# Password Generator
+- Chiedere all'utente il suo nome:
+    - dichiarare una variabile
+    - assegnare alla variabile il valore costituito da un prompt
+- Chiedere all'utente il suo cognome:
+    - dichiarare una variabile
+    - assegnare alla variabile il valore costituito da un prompt
+- Chiedere all'utente il suo colore preferito:
+    - dichiarare una variabile
+    -assegnare alla variabile il valore costituito da un prompt
+- Concatenare il nome dell'utente, al cognome e al colore
+    - dichiarare una variabile che contiene la prima parte del messaggio
+    - dichiarare una variabile "message" dove concatenare nome, cognome, colore
+- Stampare un messaggio dentro h1
+    - inserire nell'html un tag h1 con id="message"
+    - recuperare con js l'elemento del dom con id="message"
+    - modificare l'innerHTML dell'h1 con il valore della variabile message 
